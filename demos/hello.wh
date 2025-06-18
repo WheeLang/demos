@@ -1,0 +1,19 @@
+#!/usr/bin/env whee
+=== WHEE ===
+
+package main;
+
+int main() {
+  print("Hello World!");
+  print("This is Whee!");
+  print("What is Whee?");
+  print("Whee is a modern programming language written in Rust.");
+  print("It has:");
+  print("  - Module Code & Syntax Support");
+  print("  - Exstensible Modular Syntax");
+  print("  - Rust Code compatibility");
+  print("  - And more!!!");
+  print("");
+  print("This is one of the demos available at /opt/bitey/Whee/demos!");
+  print("You can check them out.");
+}
