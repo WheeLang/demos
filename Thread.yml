@@ -9,6 +9,5 @@ source:
 
 install:
     commands: |
-        mkdir -p /opt/bitey/Whee/demos
         ln -sf /opt/bitey/Chocolaterie/whee-demos/demos /opt/bitey/Whee/demos
         whee /opt/bitey/Whee/demos/hello.wh
