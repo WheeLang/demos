@@ -5,7 +5,7 @@ description: "The Demonstrations of Whee."
 
 source:
     raw: "https://raw.githubusercontent.com/WheeLang/demos/main"
-    package: "https://github.com/WheeLang/mod-os/releases/download/v1.0.0/demos-1.0.0.choco.pkg"
+    package: "https://github.com/WheeLang/demos/releases/download/v1.0.0/demos-1.0.0.choco.pkg"
 
 install:
     commands: |
